@@ -37,19 +37,19 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282' //dana
-global.povo = '' //ovo
-global.pgopay = '' //gopay
+global.pdana = '085731257745' //dana
+global.povo = '' //085731257745
+global.pgopay = '' //085731257745
 global.plinkaja = '' //link aja
-global.ppulsa = '085295374964' //telkomsel
-global.ppulsa2 = '085380166282' // kalau ada kartu lain isi aja
+global.ppulsa = '081216102855' //telkomsel
+global.ppulsa2 = '083856905332' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/MaxxyBotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛'
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.nomorbot = '6283856905332'
+global.nomorown = '6285731257745'
+global.namebot = 'Ferdy 𝑩𝒐𝒕𝒛'
+global.nameown = 'Ferdy Host'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,14 +58,14 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿', true],
+  ['6285731257745', 'Ferdy Host', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [6281216102855] // Want some help?
+global.prems = [6285731257745] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
